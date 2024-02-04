@@ -1,0 +1,3 @@
+Este es el inicio del capitulo 1 del ejercicio de gestión de ramas
+
+Esta es una modificación realizada en el fichero desde la rama "capitulo 1"
