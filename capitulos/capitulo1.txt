@@ -1,3 +1,6 @@
 Este es el inicio del capitulo 1 del ejercicio de gestión de ramas
+<<<<<<< HEAD
 
 Esta es una modificación realizada en el fichero desde la rama "capitulo 1"
+=======
+>>>>>>> 29fd3608e568a47ef0f7120cf9ca0b6cbffc9ab1
